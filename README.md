@@ -38,11 +38,15 @@ PREETHI_T_M_STEGANOGRAPHY
 ├── types.h
 ├── Makefile
 ├── README.md
+├── beautiful.bmp
+├── stego.bmp
+├── secret.txt
+├── decoded.txt
 └── screenshots
     ├── encode.png
+    ├── original_vs_encoded
     ├── decode.png
     ├── decoded_message.png
-    ├── decode_image.png
 ```
 
 ## ▶️ How to Compile
