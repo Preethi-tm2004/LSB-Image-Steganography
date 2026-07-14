@@ -1,0 +1,5 @@
+*.o
+steganography
+a.out
+*.out
+*.exe
